@@ -17,7 +17,6 @@ D = 0.3; % kitöltési tényező
 beta = 1.5;
 U_GST = 5; % V
 % Félperiódus N részre osztása
-N = 12;us N részre osztása
 N = 12;
 
 % Egyszerűbb számítások
