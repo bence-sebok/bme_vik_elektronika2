@@ -34,8 +34,8 @@ IDM = ILM - IR; % 18 A
 % Első egyenlet: td + tk = D * T/2
 % Második egyenlet: ITM / TLM = tk / td
 % A fenti két egyenlet megoldása:
-td = 0.069; % dióda ideje
-tk = 0.131; % kapcsoló ideje
+td = 0.1; % dióda ideje
+tk = 0.2; % kapcsoló ideje
 
 % Áramok átlagértéke
 % Egyszerű középérték: IAV = 1/T  integral(0...T) i(t) dt
